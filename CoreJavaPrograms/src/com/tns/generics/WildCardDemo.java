@@ -13,12 +13,12 @@ public class WildCardDemo {
 		printList(List1);
 		printList(List2);
 		
-
 	}
 	
 	public static void printList(List<?> List)
 	{
 		System.out.println(List);
 	}
+
 
 }
